@@ -1,5 +1,5 @@
 # STM32_pojazd
-program do sterowania pojazdem zdalnie sterowanym przez sieć Bluetooth
+program do sterowania pojazdem zdalnie sterowanym przez sieć Bluetooth. Program w języku C.
 
 program do sterowania pojazdem zdalnie sterowanym przez Bluetooth Program jest napisany na uC STM32F303RE. Program spełnia dwie funkcje:
 
