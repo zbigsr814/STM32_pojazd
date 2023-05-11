@@ -1,0 +1,6 @@
+motor.c:17:6:M0_ruch	16	static
+motor.c:38:6:M1_ruch	16	static
+motor.c:59:6:M2_ruch	16	static
+motor.c:80:6:M3_ruch	16	static
+motor.c:101:6:ruchPojazdu	16	static
+motor.c:148:6:przydzielKierunek	16	static
